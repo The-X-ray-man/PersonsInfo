@@ -2,7 +2,7 @@
 {
     public class StartUp
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             var lines = int.Parse(Console.ReadLine());
             var persons = new List<Person>();
